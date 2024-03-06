@@ -1,0 +1,8 @@
+1.https://www.javatpoint.com/php-oops-concepts
+2.https://www.interviewbit.com/laravel-interview-questions/?sign_up_medium=ib_article_auth_blocker#laravel-mcqs
+3.https://www.interviewbit.com/sql-joins-interview-questions/
+4.https://www.interviewbit.com/javascript-interview-questions/
+5.https://www.interviewbit.com/jquery-interview-questions/
+6.https://www.interviewbit.com/git-interview-questions/
+7.https://www.interviewbit.com/php-interview-questions/
+8.https://kapilkumarkol.github.io/kapil_fs_02/
